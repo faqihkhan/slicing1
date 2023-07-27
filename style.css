@@ -1,0 +1,558 @@
+*
+{
+    width: 1440px;
+    height: 554px;
+    top: -277px;
+    left: -321px;
+    font-family: Outfit;
+    font-size: 35px;
+    font-weight: 600;
+    background: #F1F1F1;
+}
+.nav
+{
+    width: 1340px;
+    height: 110px;
+    padding: 40px 100px 40px 100px;
+    gap: 10px;
+    background: #ECAB2E;
+    font-family: Outfit;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 82px;
+    letter-spacing: 0.01em;
+    text-align: justify;
+}
+.call
+{
+    width: 100%;
+    top: 318px;
+    left: 116px;
+    height: 100vh;
+    flex-direction: row;
+}
+.back
+{
+    position: absolute;
+    margin: 10px;
+    margin-bottom: 5px;
+    top: 288px;
+    left: 116px;
+    float: left;
+}
+.dox
+{
+    display: grid;
+    gap: 40px;
+}
+.dos
+{
+    display: flex;
+    gap: 24px;
+}
+.dom
+{
+    display: flex;
+}
+.states
+{
+    display: flex;
+    gap: 40px;
+}
+.text
+{
+    display: flex;
+    gap: 8px;
+}
+.error
+{
+    display: flex;
+    gap: 31px;
+}
+.black
+{
+    width: 282px;
+    height: 332px;
+    background: #000000;
+    height: 300px;
+    top: 32px;
+    float: left;
+}
+.blue
+{
+    width: 282px;
+    height: 332px;
+    background: #0079D8;
+    height: 300px;
+    top: 32px;
+    float: left;
+}
+.white
+{
+    width: 282px;
+    height: 332px;
+    background: #FFFFFF;
+    height: 300px;
+    top: 32px;
+    float: left;
+}
+.gray
+{
+    width: 282px;
+    height: 332px;
+    background: #9299A5;
+    height: 300px;
+    top: 32px;
+    float: left;
+}
+.orange
+{
+    width: 282px;
+    height: 332px;
+    background: #FFB938;
+    height: 300px;
+    top: 32px;
+    float: left;
+}
+.green
+{
+    width: 282px;
+    height: 332px;
+    background: #A8F8A2;
+    height: 300px;
+    top: 32px;
+    float: left;
+}
+.redone
+{
+    width: 240px;
+    height: 88px;
+    top: 1435px;
+    left: 109px;
+    background: #FF8556;
+}
+.redtwo
+{
+    width: 240px;
+    height: 88px;
+    top: 1435px;
+    left: 109px;
+    background: #FF723C;
+}
+.redthree
+{
+    width: 240px;
+    height: 88px;
+    top: 1435px;
+    left: 109px;
+    background: #FD5B1D;
+}
+.redfour
+{
+    width: 240px;
+    height: 88px;
+    top: 1435px;
+    left: 109px;
+    background: #EF4823;
+}
+.redfive
+{
+    width: 240px;
+    height: 88px;
+    top: 1435px;
+    left: 109px;
+    background: #DA3612;
+}
+.reds
+{
+    width: 282px;
+    height: 88px;
+    top: 1763.4921875px;
+    left: 116px;
+    background: #FF4747;
+}
+.yellows
+{
+    width: 282px;
+    height: 88px;
+    top: 1763.4921875px;
+    left: 116px;
+    background: #FFDB1F;
+}
+.greens
+{
+    width: 282px;
+    height: 88px;
+    top: 1763.4921875px;
+    left: 116px;
+    background: #00E063;
+}
+.blues
+{
+    width: 282px;
+    height: 88px;
+    top: 1763.4921875px;
+    left: 116px;
+    background: #1F9AFF;
+}
+.greyscale
+{
+    display: flex;
+}
+.whiteone
+{
+    width: 240px;
+    height: 88px;
+    top: 2174.2308349609375px;
+    left: 116px;
+    background: #F8FAFC;
+}
+.whitetwo
+{
+    width: 240px;
+    height: 88px;
+    top: 2174.2308349609375px;
+    left: 116px;
+    background: #F1F5F9;
+}
+.whitethree
+{
+    width: 240px;
+    height: 88px;
+    top: 2174.2308349609375px;
+    left: 116px;
+    background: #E4EAF1;
+}
+.whitefour
+{
+    width: 240px;
+    height: 88px;
+    top: 2174.2308349609375px;
+    left: 116px;
+    background: #CBD5E1;
+}
+.whitefive
+{
+    width: 240px;
+    height: 88px;
+    top: 2174.2308349609375px;
+    left: 116px;
+    background: #94A3B8;
+}
+.whitesix
+{
+    width: 240px;
+    height: 88px;
+    top: 2174.2308349609375px;
+    left: 116px;
+    background: #64748B;
+}
+.whiteseven
+{
+    width: 240px;
+    height: 88px;
+    top: 2174.2308349609375px;
+    left: 116px;
+    background: #475569;
+}
+.whiteeight
+{
+    width: 240px;
+    height: 88px;
+    top: 2174.2308349609375px;
+    left: 116px;
+    background: #334155;
+}
+.whitenane
+{
+    width: 240px;
+    height: 88px;
+    top: 2174.2308349609375px;
+    left: 116px;
+    background: #1E293B;
+}
+.whiteten
+{
+    width: 240px;
+    height: 88px;
+    top: 2174.2308349609375px;
+    left: 116px;
+    background: #101218;
+}
+.textone
+{
+    width: 598px;
+    height: 88px;
+    background: #101218;
+}
+.texttwo
+{
+    width: 598px;
+    height: 88px;
+    background: #64748B;
+}
+.textthree
+{
+    width: 598px;
+    height: 88px;
+    background: #CBD5E1;
+}
+.textfour
+{
+    width: 598px;
+    height: 88px;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF),
+    linear-gradient(0deg, #E4EAF1, #E4EAF1);
+}
+.errorone
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #FEF0EF;
+}
+.errortwo
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #FEE4E2;
+}
+.errorthree
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #FDA29B
+}
+.errorfour
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #F97066;
+}
+.errorfive
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #F04438;
+}
+.errorsix
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #D92D20;
+}
+.errorseven
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #B42318;
+}
+.erroreight
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #912018;
+}
+.errornane
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #7A271A;
+}
+.warningone
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #FFFAEB;
+}
+.warningtwo
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #FEF0C7;
+}
+.warningthree
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #FEDF89;
+}
+.warningfour
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #FEC84B;
+}
+.warningfive
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #FDB022;
+}
+.warningsix
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #F79009;
+}
+.warningseven
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #DC6803;
+}
+.warningeight
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #B54708;
+}
+.warningnane
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #93370D;
+}
+.successone
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #ECFDF3;
+}
+.successtwo
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #D1FADF;
+}
+.successthree
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #A6F4C5;
+}
+.successfour
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #6CE9A6;
+}
+.successfive
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #32D583;
+}
+.successsix
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #12B76A;
+}
+.successseven
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #027A48;
+}
+.successeight
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #05603A;
+}
+.successnane
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #054F31;
+}
+.infoone
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #EDF7FE;
+}
+.infotwo
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #E0F2FE;
+}
+.infothree
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #B9E6FE;
+}
+.infofour
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #7CD4FD;
+}
+.infofive
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #36BFFA;
+}
+.infosix
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #0BA5EC;
+}
+.infoseven
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #0086C9;
+}
+.infoeight
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #1769AA;
+}
+.infonane
+{
+    width: 104px;
+    height: 80px;
+    top: 3123.412841796875px;
+    background: #065986;
+}
